@@ -1,0 +1,22 @@
+﻿  ImageProcessingSpace.cpp
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\Color.h(40,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\Color.h(63,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ImageProcessor.cpp
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\Color.h(40,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\Color.h(63,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(51,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(54,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(107,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(109,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(112,24): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(112,21): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(113,30): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(113,27): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(147,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(147,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(148,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(148,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\ImageProcessingSpace\ImageProcessor.cpp(205,29): warning C4018: '<': signed/unsigned mismatch
+  TimeManager.cpp
+  Generating Code...
+  ImageProcessingSpace.vcxproj -> C:\Users\awiss\source\repos\ImageProcessor-CSCI2620\x64\Debug\ImageProcessingSpace.exe
